@@ -1,4 +1,4 @@
-//michelle dong
+//Michelle Dong
 //mdong16
 #include <stdio.h>
 
